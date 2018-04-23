@@ -1,0 +1,6 @@
+/private*
+/reader*
+/crls.d
+/random_seed
+/*~
+/trustdb.gpg
